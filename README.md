@@ -4,7 +4,7 @@
 
 ## 📊 GitHub Status
 
-<div align="left">
+<div>
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=WilliamZambom&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
@@ -20,9 +20,9 @@
 
 <br>
 
-<div align="center">
+<div>
   <img
-    src="https://github-profile-trophy.vercel.app/?username=WilliamZambom&theme=dracula&rank=A,AA,AAA,S,SS,SSS&margin-w=10&margin-h=10"
+    src="https://github-profile-trophy.vercel.app/?username=WilliamZambom&theme=dark&rank=A,AA,AAA,S,SS,SSS&margin-w=10&margin-h=10"
     alt="GitHub Trophies"
   />
 </div>
@@ -31,7 +31,7 @@
 
 ## 🛠 Tecnologias
 
-<div align="center">
+<div align="inline_block">
 
 ### Backend  
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
