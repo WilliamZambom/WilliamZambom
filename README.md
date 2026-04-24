@@ -22,14 +22,13 @@
 
 ## 🛠 Tecnologias
 
-<div align="center">
+<div align="left">
 
 ### Backend
 
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
 
-<br><br>
 
 ### Linguagens
 
@@ -37,7 +36,6 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
 
-<br><br>
 
 ### Frontend
 
