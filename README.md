@@ -4,7 +4,7 @@
 
 ## 📊 GitHub Status
 
-<div align="center">
+<div align="left">
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=WilliamZambom&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
